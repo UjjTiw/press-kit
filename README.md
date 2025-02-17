@@ -64,7 +64,8 @@ To run the project, you need **Poetry** installed on your system. Follow these s
 - **Integration of Supplementary Data**: 8/10
 
 ### **Screenshot Attachments**
-_(Attach the screenshots here to showcase the UI and generated outputs)_
+_![Screenshot 2025-02-17 at 6 43 00 AM](https://github.com/user-attachments/assets/8fe05b10-a5b1-4b22-929e-a2d4282ca952)
+ generated outputs)_
 
 ## Future Improvements
 - Enhance SEO keyword optimization.
